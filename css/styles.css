@@ -1,8 +1,14 @@
 h1 {
-    color: royalblue;
+    color: blue;
+}
+p {
+    color: greenyellow;
+}
+body {
+    background-color:sienna;
 }
 ul{
-text-align: right;
+    text-align: right;
 }
 li{
     display: inline-block;
