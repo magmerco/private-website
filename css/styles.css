@@ -7,3 +7,9 @@ p {
 body {
     background-color:sienna;
 }
+ul{
+    text-align: right;
+}
+li{
+    display: inline-block;
+}
